@@ -1,5 +1,7 @@
 # Czytnik-Konstytucji
 
+Mój pierwszy program w ramach przedmiotu Programowanie Obiektowe
+
 Argumenty programu:
 
 -plik: 'konstytucja.txt' lub 'uokik.txt'
